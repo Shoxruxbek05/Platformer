@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: a3deac0df53f32345ac8aaf7a04bd6fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3116
+        width: 245
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29c1fef7b5ce2408ab6b0662d6b2db
+      internalID: 133660428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3116
+        width: 209
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dce5b6abf18bf4f899f2471e916974
+      internalID: 1065891420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_2
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 3116
+        width: 206
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5e9e194ce5c44bb0a663fd9425c38
+      internalID: -940269333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_3
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 3116
+        width: 203
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ddc400c1e9ae541acd144bb424acb7
+      internalID: 1350779702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_4
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 3116
+        width: 272
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760689407af5b8442abc38d8f157df66
+      internalID: 57690729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_5
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 3116
+        width: 305
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ef1ab71aa15644a9d0898271d25c30
+      internalID: -1413531402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2348
+        width: 338
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d94766d7a2914da540117c5c70f06
+      internalID: 279387915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_7
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2348
+        width: 371
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886c798d62a2a443893ac3640b76b38
+      internalID: -1385131800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_8
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 2348
+        width: 398
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222e295ebdcf24f44b1876cb86e0515b
+      internalID: 520164333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_9
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 2336
+        width: 434
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ce779483895a4993cd78670a64d96
+      internalID: 1524052751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_10
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 2321
+        width: 467
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f175dcaf29f12524fba251208c5a55b6
+      internalID: 1019762626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_11
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 2306
+        width: 509
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a566b522177ca0488c100bf21391683
+      internalID: -566799465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1532
+        width: 530
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb99e0b29a6e3d498282bd2f58540d1
+      internalID: 1422808527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1562
+        width: 545
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee22d1716699d44b8b396046643db3
+      internalID: -2110976090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_14
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1571
+        width: 524
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25485fde80ef34041a92fa067b25a312
+      internalID: 403873640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_15
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1556
+        width: 506
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af63ec7c48c7841ac6b73acf5dd884
+      internalID: -152971351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_16
+      rect:
+        serializedVersion: 2
+        x: 4481
+        y: 1553
+        width: 482
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490771e2523b78b4bb502b9aad80ef15
+      internalID: 1300993220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_17
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 1538
+        width: 467
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878376d047da61498d1c6d96d701013
+      internalID: 303359203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 764
+        width: 464
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7032d717b0334fa994463f60559f0
+      internalID: -304723097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_19
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 764
+        width: 476
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd85bcd995019d542b6fb26fe4296581
+      internalID: 984376770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_20
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 764
+        width: 494
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54262286a271d55458be68c14403c39c
+      internalID: 1074547814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_21
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 764
+        width: 506
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de1875b6c69f334ba1d433a7ea3a005
+      internalID: 59149978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_22
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 812
+        width: 197
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33ed336cf7a55469ea9e9cf99de20c
+      internalID: 1431124220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_23
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 764
+        width: 287
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea86f6b523f139f428ddcc10cb705198
+      internalID: -2130374750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_24
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 812
+        width: 197
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f2865af7427ca44b7e1f54b8c4f273
+      internalID: 1737537840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_25
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 770
+        width: 251
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396cb28f462693f488ea2316d4a80365
+      internalID: -1375657282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 44
+        width: 206
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b056d4c511d2f84882a36555f56de4c
+      internalID: -1399930492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_27
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 5
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d162082a40f684e84075afad63effa
+      internalID: 85641868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_28
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 44
+        width: 209
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803abf0d906bdd94d9dcaa395c9bac9f
+      internalID: -189227019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_29
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 17
+        width: 167
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ea8a6fd443d547a504913b2a3bd2c
+      internalID: 1208177082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_30
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 44
+        width: 215
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1023945ba04474d897fd0dbb8ddf7c
+      internalID: -225250746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_31
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 20
+        width: 158
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cfb6e0d0f4ee7428fea68042960960
+      internalID: -1262104331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_32
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 44
+        width: 230
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2207df17191168644841cd9f036125b7
+      internalID: -1399936097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_33
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 14
+        width: 137
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42fee6044841a74f8d7678530384f20
+      internalID: 802253575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_34
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 44
+        width: 242
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0434864b3047c641bea5c64da43536d
+      internalID: 210564757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_35
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 14
+        width: 110
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c31ffd82a17f45808decb8b81ba9b
+      internalID: 1077201397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_03+Fire (double space size)_36
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 44
+        width: 245
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbfd685c593ab54a91c4ce3b996760e
+      internalID: -2040760127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Attack_03+Fire (double space size)_0: 133660428
+      Attack_03+Fire (double space size)_1: 1065891420
+      Attack_03+Fire (double space size)_10: 1019762626
+      Attack_03+Fire (double space size)_11: -566799465
+      Attack_03+Fire (double space size)_12: 1422808527
+      Attack_03+Fire (double space size)_13: -2110976090
+      Attack_03+Fire (double space size)_14: 403873640
+      Attack_03+Fire (double space size)_15: -152971351
+      Attack_03+Fire (double space size)_16: 1300993220
+      Attack_03+Fire (double space size)_17: 303359203
+      Attack_03+Fire (double space size)_18: -304723097
+      Attack_03+Fire (double space size)_19: 984376770
+      Attack_03+Fire (double space size)_2: -940269333
+      Attack_03+Fire (double space size)_20: 1074547814
+      Attack_03+Fire (double space size)_21: 59149978
+      Attack_03+Fire (double space size)_22: 1431124220
+      Attack_03+Fire (double space size)_23: -2130374750
+      Attack_03+Fire (double space size)_24: 1737537840
+      Attack_03+Fire (double space size)_25: -1375657282
+      Attack_03+Fire (double space size)_26: -1399930492
+      Attack_03+Fire (double space size)_27: 85641868
+      Attack_03+Fire (double space size)_28: -189227019
+      Attack_03+Fire (double space size)_29: 1208177082
+      Attack_03+Fire (double space size)_3: 1350779702
+      Attack_03+Fire (double space size)_30: -225250746
+      Attack_03+Fire (double space size)_31: -1262104331
+      Attack_03+Fire (double space size)_32: -1399936097
+      Attack_03+Fire (double space size)_33: 802253575
+      Attack_03+Fire (double space size)_34: 210564757
+      Attack_03+Fire (double space size)_35: 1077201397
+      Attack_03+Fire (double space size)_36: -2040760127
+      Attack_03+Fire (double space size)_4: 57690729
+      Attack_03+Fire (double space size)_5: -1413531402
+      Attack_03+Fire (double space size)_6: 279387915
+      Attack_03+Fire (double space size)_7: -1385131800
+      Attack_03+Fire (double space size)_8: 520164333
+      Attack_03+Fire (double space size)_9: 1524052751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
